@@ -1,3 +1,9 @@
+#This is how the page look like
+![WhatsApp Image 2024-02-24 at 00 10 23_786c9aad](https://github.com/demoslayer/Contact-Page/assets/107707267/f67c48a4-8b53-4407-896b-366e07cea1e3)
+
+![WhatsApp Image 2024-02-24 at 00 11 37_87be60ff](https://github.com/demoslayer/Contact-Page/assets/107707267/cad11106-329e-4eda-a2ed-765393bb4d5f)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
